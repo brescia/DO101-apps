@@ -59,3 +59,10 @@ http://api.openweathermap.org/data/2.5/weather?q=Ottawa&appid=API_KEY
 https://access.redhat.com/documentation/en-us/openshift_container_platform/4.2/html-single/cli_tools/index#creating-an-application-with-a-database
 https://blog.openshift.com/openshift-connecting-database-using-port-forwarding/
 https://access.redhat.com/documentation/en-us/openshift_container_platform/4.2/html-single/nodes/index#nodes-containers-port-forwarding
+
+<-- Openshift Scaling an Application -->
+https://access.redhat.com/documentation/en-us/openshift_container_platform/4.2/html-single/applications/index#odc-scaling-application-pods-and-checking-builds-and-routes_viewing-application-composition-using-topology-view
+
+https://access.redhat.com/documentation/en-us/openshift_container_platform/4.2/html-single/nodes/index#nodes-pods-autoscaling
+
+https://access.redhat.com/documentation/en-us/openshift_container_platform/4.2/html-single/monitoring/index#exposing-custom-application-metrics-for-autoscaling
